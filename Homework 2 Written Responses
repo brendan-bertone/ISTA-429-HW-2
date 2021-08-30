@@ -1,28 +1,16 @@
 Responses to Box 1.
-Data Managemnet: Save the Raw Data - Even though this might seem simple and logical this is one of the most important steps especially as it comes to proving and 
-reproducing experiments and research. If the data is to large and you have to edit the raw data be sure to outline all the exact steps you take to change the data so
-it can be reproduced at a later time.
+Data Management: Save the Raw Data - Even though this might seem simple and logical this is one of the most important steps especially as it comes to proving and reproducing experiments and research. If the data is too large to save an original copy and you have to edit the raw data be sure to outline all the exact steps you take to change the data so it can be reproduced at a later time.
 
-Software: Decompose Programs into Functions - Decomposing programs is critical as it makes it easier to read and debug programs. Also by placing code into functions you
-are able to limit the amount of duplicate code as you are able to make multiple calls to the function. It is also to make sure you write functions that accomplish one thing 
-without making them to long the standard is usualy between 30-60 lines for a function.
+Software: Decompose Programs into Functions - Decomposing programs is critical as it makes it easier to read and debug programs. Also by placing code into functions you can limit the amount of duplicate code as you can make multiple calls to the function. It is also to make sure you write functions that accomplish one logical purpose without making them too long the standard length is usually between 30-60 lines for a function.
 
-Collaboration: Create a shared "to-do" list for the project - This is important because it outlines the responsibilities of every member of the team and make sure that every 
-task is accomplished in a timely manner without people redoing or duplicating work at the same time. This also makes the the project more organized with also holding everyone
-responsible for there role in the project.
+Collaboration: Create a shared "to-do" list for the project - This is important because it outlines the responsibilities of every member of the team and makes sure that every task is accomplished on time without people redoing or duplicating work. This also makes the project more organized with also holding everyone responsible for their role in the project.
 
-Project Organization: Name all files to reflect their content or function - Though this is another relatively simple step it is important to make sure that when naming files 
-that you are able to follow the conventions that are outlined for the project. By using names that relate to the content of the function or the content it will make it alot 
-easier for other members of the team and people later on to have a much better understanding/outline for how the program works/operates.
+Project Organization: Name all files to reflect their content or function - Though this is another relatively simple step it is important to make sure that when naming files that you follow the conventions that are outlined for the project. By using names that relate to the content of the function or the purpose of the file it will make it a lot easier for other members of the team and people later on to have a much better understanding/outline for how the program works/operates.
 
-Keeping Track of Changes: Share changes frequently - By sharing the changes frequently of your code and work on the project to ensures that everyone working on the project has 
-the most up to date files with in turn will increase productivity. Also by saving and sharing files frequently it will create more points that you can revert back to incase you 
-make a mistake or need to revert to a older version it means that you will be able to have a better starting point.
+Keeping Track of Changes: Share changes frequently - By sharing the changes frequently of your code and work on the project to ensures that everyone working on the project has the most up-to-date files with in turn will increase productivity. Also by saving and sharing files frequently it will create more points that you can revert to in case you make a mistake or need to check an older version it means that you will be able to have a better starting point.
 
 Responses to Box 3:
-Licenses: Apache License Version 2.0 - I choose the Apache License because like the MIT and GLP Licenses it is open source which ensures that people have the capablitities to 
-use and try incorpate the code but since it is a little longer and has better protections when to comes to writing patents or prevent patent trolling opposed to MIT or the GLP
-licenses.
+Licenses: Apache License Version 2.0 - I choose the Apache License because like the MIT and GLP Licenses it is open source which ensures that people have the capabilities to use and try to incorporate the code in their projects but since Apache is a little longer and has better protections when to comes to writing patents or prevent patent trolling opposed to MIT or the GLP licenses.
 
 README: 
 Project Title: Homework 2 - Github Repository
@@ -30,7 +18,7 @@ Brief Description: The purpose of this repository is to outline the file structu
 Greg Wilson, Jennifer Bryan, Karen Cranston, Justin Kitzes, Lex Nederbragt, and Tracy K. Teal. This is also being used for ISTA 429 HW 2 where we were required to create a 
 fake repository.
 Contact Info: NA 
-Getting Started: At this moment this is a individual project and not looking for other people to utilize this code. Once finished will update this with examples of how to 
-perform cleaning and anaylsis tasks for the project. Also will update when looking for other contributors to help with project.
+Getting Started: At this moment this is an individual project and not looking for other people to utilize this code. Once finished will update this with examples of how to perform cleaning and analysis tasks for the project. Also will update when looking for other contributors to help with the project.
 
-Credits: Jake Newton - For overall layout of submission/website along with example of Github Repository
+Credits:  Jake Newton - For the overall layout of submission/website along with an example of Github Repository that followed the Box 3 structure.
+	        Resource used for determining which license to use -  https://exygy.com/blog/which-license-should-i-use-mit-vs-apache-vs-gpl/
